@@ -11,5 +11,5 @@ for($i = 2; $i <= 1000; $i++)
 			break;
 		}
 	}
-	if($prime) echo $aux . " ";
+	if($prime) echo $i . " ";
 }
